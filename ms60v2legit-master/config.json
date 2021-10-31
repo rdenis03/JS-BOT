@@ -1,0 +1,25 @@
+{
+    "mongodb_uri": "mongodb+srv://Denis:Denisandrei0@cluster0.0ip5w.mongodb.net/Denis?retryWrites=true&w=majority",
+    "webhook_url": [
+        "https://discord.com/api/webhooks/774972874166632454/ATW6FG3qORbrAB_MnKtg3MITrK_roYDM6DI8soAa7g6DZrxsBo3-ETtpdz6XIQwysExh"
+    ],
+    "discord_message_settings": {
+        "botImage": "https://media.discordapp.net/attachments/727260688115826783/774733880158453790/b3e5d0f9c410a97d15909a322de39a84.png",
+        "botName": "Relu",
+        "footerDescription": "Facot de Denis",
+        "footerImage": "",
+        "timeOfNotification": true
+    },
+    "requestTiming": 30000,
+    "keywords": [["Nike","Jordan"]],
+    "sites":  [
+        {
+            "url": "hanon-shop.com",
+            "keywords": [["New Balance"],["Adidas","Yeezy","Jordan"]]
+        },
+        { "url": "sesinko.com",
+         "keywords": [["New Balance"],["Adidas","Yeezy","Jordan","Nike"]] }
+    
+    ],
+    "proxiesList": [ ]
+}
